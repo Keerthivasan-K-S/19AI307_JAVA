@@ -41,8 +41,8 @@ To write a Java program for below situation, Student object contains member 'Stu
  ```
 /*
 Program to implement a Inheritance using Java
-Developed by: AADHITHAN B
-RegisterNumber: 212224040001 
+Developed by: Keerthivasan K S
+RegisterNumber: 212224230120
 */
 ```
 
