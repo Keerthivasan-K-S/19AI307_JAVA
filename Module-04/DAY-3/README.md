@@ -43,8 +43,8 @@ Step 5: End
  ```
 /*
 Program to implement a Constructor Chaining using Java
-Developed by: AADHITHAN B
-RegisterNumber: 212224040001 
+Developed by: Keerthivasan K S
+RegisterNumber: 212224230120
 */
 ```
 
